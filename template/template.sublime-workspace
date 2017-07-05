@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fsm-aw",
+				"fsm-aw\tfont-smooth: always;"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"m-a\tmargin: auto;"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"di",
+				"d-i\tdisplay: inline;"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pos",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"border-ra",
+				"border-bottom-left-radius"
+			],
+			[
+				"Ve",
+				"VERSION"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 537,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 549,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "style.css"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lenovo/Documents/colors/star model v2.sublime-project",
+		"/C/Users/lenovo/Documents/colors/.csscomb.json",
+		"/C/Users/lenovo/Documents/colors/index.html",
+		"/C/Users/lenovo/Documents/colors/s.css",
+		"/C/Users/lenovo/Desktop/Nueva carpeta/ps/index.js",
+		"/C/Users/lenovo/Desktop/Nueva carpeta/ps/pysql.py",
+		"/C/Users/lenovo/Documents/colors/style.css",
+		"/C/Users/lenovo/Downloads/material_design_colors_full.css",
+		"/C/Users/lenovo/Documents/logo wtm css/style.css",
+		"/C/Users/lenovo/Documents/logo wtm css/index.html",
+		"/C/Users/lenovo/Code/frontend-bootcamp/index.html",
+		"/C/Users/lenovo/Downloads/cx_Oracle-5.3/samples/DatabaseStartup.py",
+		"/C/Users/lenovo/Downloads/cx_Oracle-5.3/samples/InsertGeometry.py",
+		"/C/Users/lenovo/Downloads/cx_Oracle-5.3/test/Connection.py",
+		"/C/Users/lenovo/Code/frontend-bootcams/bootcamps-notes.md",
+		"/C/Users/lenovo/Desktop/index.html",
+		"/C/Users/lenovo/Documents/Teo/Matematicas/Matematicas/PythonSQL.py",
+		"/C/Users/lenovo/Documents/Teo/Matematicas/Matematicas/Configure.py",
+		"/F/Teo/poo/configure.py",
+		"/F/Teo/Main.py",
+		"/F/Teo/poo/SQL.py",
+		"/F/Teo/poo/scaping.py",
+		"/F/Teo/poo/teo.py",
+		"/F/Teo/poo/hex.py",
+		"/F/Teo/poo/index.py",
+		"/F/Teo/poo/main.py",
+		"/F/Teo/poo/p.py",
+		"/F/Teo/poo/pythonSQL-2.0.py",
+		"/F/Teo/poo/pythonSQL2.py",
+		"/F/Teo/configure.py",
+		"/F/Teo/DataBase.json",
+		"/F/Teo/lite.py",
+		"/F/Teo/DataBase.py",
+		"/F/Teo/beta.py",
+		"/F/Teo/pruebas.py",
+		"/F/Teo/where.py",
+		"/F/Teo/Teo_db.py",
+		"/C/Users/lenovo/Documents/Teo/Matematicas/Matematicas/Main.py",
+		"/C/Users/lenovo/Documents/Teo/Matematicas/Matematicas/README.md",
+		"/C/Users/lenovo/Documents/Teo/Matematicas/Matematicas/fail.py",
+		"/C/Users/lenovo/Documents/Teo/Matematicas/Matematicas/parce.py",
+		"/F/Nueva carpeta/product_2017-06-12_195244.csv",
+		"/F/Nueva carpeta/category_2017-06-12_195932.csv"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"200/200/1",
+			"h3",
+			"h1",
+			"absolute"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 111.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"auto_name": "style.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "template.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
