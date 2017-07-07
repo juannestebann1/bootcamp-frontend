@@ -1,4 +1,4 @@
-var a = 1, b = 2, c = 3;
+var a = 1, b = 8, c = 6;
 
      (function firstFunction(){
          var b = 5, c = 6;
