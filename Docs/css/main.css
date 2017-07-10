@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:700');
+
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    color: #fff;
+}
+
+body
+{
+    background-image: url(../img/ilya-pavlov-87438.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 400% 1200px;
+}
+
+article
+{
+    width: 95%;
+    margin: 20px auto;
+}
+
+h1
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+
+    text-align: center;
+
+    text-shadow: 2px 2px #333;
+}
+
+h2{
+	text-align: center;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+p
+{
+	text-align: center;
+    padding: 50px 0;
+    font-family: arial;
+}
+
+section
+{
+    font-family: 'Oswald', sans-serif;
+    line-height: 150px;
+
+    display: inline-block;
+
+    width: 49.5%;
+    height: 150px;
+    margin-top: 10px;
+
+    text-align: center;
+
+    background: #333;
+    cursor: pointer;
+}
+
+section:hover
+{
+    -webkit-transition: all .5s ease; /* Safari y Chrome */
+       -moz-transition: all .5s ease; /* Firefox */
+        -ms-transition: all .5s ease; /* Opera */
+         -o-transition: all .5s ease; /* IE 9 */
+
+    color: red;
+}
+
+section .br
+{
+    position: relative;
+    top: -3px;
+
+    width: 1px;
+    height: 3px;
+    margin: 0 auto;
+
+    -webkit-transition: all .5s ease; /* Safari y Chrome */
+       -moz-transition: all .5s ease; /* Firefox */
+        -ms-transition: all .5s ease; /* Opera */
+         -o-transition: all .5s ease; /* IE 9 */
+
+    background: transparent;
+}
+
+section:hover .br
+{
+    width: 100%;
+
+    -webkit-transition: all .5s ease; /* Safari y Chrome */
+       -moz-transition: all .5s ease; /* Firefox */
+        -ms-transition: all .5s ease; /* Opera */
+         -o-transition: all .5s ease; /* IE 9 */
+
+    background: red;
+}
+
+@media screen and (min-width: 700px)
+{
+    body
+    {
+        background-image: url(../img/ilya-pavlov-87438.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 100% 1200px;
+    }
+
+    article
+    {
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    p
+    {
+        padding: 20px 0;
+    }
+
+    section
+    {
+        font-size: 30px;
+        line-height: 200px;
+
+        width: 24.5%;
+        height: 200px;
+    }
+}
